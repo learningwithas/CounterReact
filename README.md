@@ -1,3 +1,5 @@
+<a href="https://learningwithas.github.io/CounterReact/">Click Here</a> to visit site <br><br>
+
 Working on the Counter project provides a great opportunity to learn and reinforce various key concepts and skills in React and web development. Here are some important takeaways from the project:
 
 1. React Basics
